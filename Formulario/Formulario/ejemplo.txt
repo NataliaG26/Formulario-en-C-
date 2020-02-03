@@ -1,0 +1,5 @@
+Natalia;Gonzalez;natalia.gonzalez3@correo.com;3217335600
+Isabel;Murillo;isamurillo@live.com;3167121276
+Miguel;Gonzalez;mikegonzalez@correo.com;315478950
+Gloria;Bolaños;gloriab@correo.com;320745891
+Ana Maria;Restrepo;ana.restrepo@hotmail.com;318429645

@@ -1,0 +1,8 @@
+D:\MIS DOCUMENTOS\Documents\2020-1\Proyecto_Integrador\Formulario\Formulario\bin\Debug\Formulario.exe.config
+D:\MIS DOCUMENTOS\Documents\2020-1\Proyecto_Integrador\Formulario\Formulario\bin\Debug\Formulario.exe
+D:\MIS DOCUMENTOS\Documents\2020-1\Proyecto_Integrador\Formulario\Formulario\bin\Debug\Formulario.pdb
+D:\MIS DOCUMENTOS\Documents\2020-1\Proyecto_Integrador\Formulario\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+D:\MIS DOCUMENTOS\Documents\2020-1\Proyecto_Integrador\Formulario\Formulario\obj\Debug\Formulario.Form1.resources
+D:\MIS DOCUMENTOS\Documents\2020-1\Proyecto_Integrador\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+D:\MIS DOCUMENTOS\Documents\2020-1\Proyecto_Integrador\Formulario\Formulario\obj\Debug\Formulario.exe
+D:\MIS DOCUMENTOS\Documents\2020-1\Proyecto_Integrador\Formulario\Formulario\obj\Debug\Formulario.pdb
